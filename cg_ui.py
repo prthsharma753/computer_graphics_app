@@ -1,6 +1,5 @@
 from tkinter import *
-from math import sqrt, pow, cos, sin, radians, atan
-import math
+from math import *
 
 points = []
 line_startend = []
